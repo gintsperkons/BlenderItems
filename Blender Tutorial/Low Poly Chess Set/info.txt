@@ -1,0 +1,10 @@
+base diameter should be roughly 75-80% of the size of the square
+board:
+sqare - 6cm
+king:
+height - 10cm
+base_D - 40% - 50%   4.5cm
+pawn:
+base_D - square_W/2    3cm
+Other:
+base_D - 4cm
